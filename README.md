@@ -7,5 +7,5 @@
 查看代理 https://dashboard.ngrok.com/tunnels/agents/ </p>
 终止账户 https://account.live.com/closeaccount.aspx/ </p>
 </br>
-*客户端* https://data.traffmonetizer.com/downloads/Installer.exe </br>
-*邀请码* zgslMyZVw77X6VuNbDFM0NfWdgWmstpID9ZIBtZ9WDY=
+https://data.traffmonetizer.com/downloads/Installer.exe </p>
+zgslMyZVw77X6VuNbDFM0NfWdgWmstpID9ZIBtZ9WDY=
